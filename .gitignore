@@ -5,9 +5,9 @@
 
 
 ##my secrets
-Ignore.md
-dbConnection.md
-appsettings.json
+# Ignore.md
+# dbConnection.md
+# appsettings.json
 
 # dotenv files
 .env
